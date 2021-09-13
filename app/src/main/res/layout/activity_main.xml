@@ -78,7 +78,7 @@
         android:id="@+id/text_view_resultado"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:text="21,9"
+        android:text="imc"
         android:layout_gravity="center"
         android:gravity="center"
         android:layout_marginTop="32dp"
